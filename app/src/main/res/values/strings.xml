@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+    <string-array name="year">
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+
+    <string-array name="department">
+        <item>Computer</item>
+        <item>Mechanical</item>
+        <item>Electrical</item>
+        <item>ENTC</item>
+        <item>IT</item>
+    </string-array>
+
+    <string-array name="shift">
+        <item>First Shift</item>
+        <item>Second Shift</item>
+    </string-array>
+
+    <string-array name="subject">
+        <item>CN</item>
+        <item>TOC</item>
+        <item>SEPM</item>
+        <item>DBMS</item>
+        <item>ISEE</item>
+    </string-array>
+
+</resources>
